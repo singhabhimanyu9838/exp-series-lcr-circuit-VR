@@ -1,0 +1,142 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.In a series RLC, circuit R=30 ohm, L=15 mH, C=51 μF. If the frequency and voltage are 60 Hz and 12 V. What is the current in the circuit",
+      "answers": {
+        "a": "217 mA",
+        "b": "250 mA 2",
+        "c": "2.17 A",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.In a series RLC, circuit XL= 7.85 ohm and resistance R = 25 ohm. What is the impedance in resonance condition?",
+      "answers": {
+        "a": "25 ohm",
+        "b": "5 ohm",
+        "c": "250 ohm",
+        "d": "16 ohm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.In a series RLC, circuit XL = 25.12 ohm, XC = 398.09 ohm and resistance R = 4 ohm respectively,the impedance will be",
+      "answers": {
+        "a": "325 ohm",
+        "b": "372.99 ohm",
+        "c": "370 ohms",
+        "d": "298 ohms"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "4. What is the circuit called when a resistor R, inductor L, and capacitor C are connected in series with a source of emf E?",
+      "answers": {
+        "a": "Parallel resonant circuit",
+        "b": "Series resonant circuit",
+        "c": " Tuned resonant circuit",
+        "d": "Acceptor circuit"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+           {
+      "question": "5.  At what frequency does the series resonant circuit allow maximum current to flow through it?",
+      "answers": {
+        "a": "At all frequencies",
+        "b": " At low frequencies",
+        "c": "At high frequencies",
+        "d": "At a particular resonant frequency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    ,
+           {
+      "question": "6. What is the phase relationship between voltage and current across the resistor in the series resonant circuit?",
+      "answers": {
+        "a": "In-phase",
+        "b": "Out of phase by 90°",
+        "c": "Out of phase by 180°",
+        "d": "Current leads voltage by 90°"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+           {
+      "question": "7. What phenomenon occurs when the voltage and current in the series resonant circuit are in phase, behaving as a pure resistor?",
+      "answers": {
+        "a": "Resonance",
+        "b": "Selectivity",
+        "c": "Impedance",
+        "d": "Reactance"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+           {
+      "question": "8. What is the frequency difference between the half power points used to measure selectivity in the series resonant circuit?",
+      "answers": {
+        "a": "Resonant frequency",
+        "b": "Bandwidth",
+        "c": "Impedance frequency",
+        "d": "Reactance frequency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

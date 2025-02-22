@@ -1,0 +1,104 @@
+/* You CSS goes in here */
+body{
+   background-color: aliceblue;
+}
+
+.freq-range{
+   margin-left: 500px;
+}
+.input-fill{
+   /* box-shadow: 5px 10px #0f0e0e; */
+
+   display: flex;
+   margin-top: 2%;
+   align-items: center;
+   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+/***** Thumb Styles *****/
+/***** Chrome, Safari, Opera, and Edge Chromium *****/
+input[type="range"]::-webkit-slider-thumb {
+   -webkit-appearance: none; /* Override default look */
+   appearance: none;
+   margin-top: -12px; /* Centers thumb on the track */
+   background-color: #5cd5eb;
+   height: 2rem;
+   width: 1rem;    
+}
+
+/* #svg{
+   border: 1px solid;
+   padding: 10px;
+   box-shadow: 5px 10px #888888;
+} */
+
+#svg{
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+
+.fill{
+  appearance: button;
+  background-color: #1899D6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #0c0b0b;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.fill:after {
+  background-clip: padding-box;
+  background-color: #4c5559;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.fill:main,
+.fill:focus {
+  user-select: auto;
+}
+
+.fill:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+  cursor: pointer;
+}
+
+.fill:disabled {
+  cursor: auto;
+}
+
+.fill:hover {
+  box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
+  cursor: pointer;
+}
+  
